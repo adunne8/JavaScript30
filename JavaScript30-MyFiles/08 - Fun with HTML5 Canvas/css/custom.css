@@ -1,0 +1,24 @@
+html, body {
+  margin:0;
+}
+.colorblocks{
+  width: 100%;
+  height: 60px;
+  border: 1px solid black;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.colorblock{
+  width: 50px;
+  height: 50px;
+  padding: 5px;
+  display: inline-block;
+
+}
+#red{
+  background-color: red;
+}
+#blue{
+  background-color: blue;
+}
