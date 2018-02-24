@@ -34,28 +34,6 @@ function handleCheck(e){
     };
 
 
-    /*
-    if (e.shiftKey && !this.checked){
-        console.log("Running check function");
-        
-        // LOOP OVER EVERY CHECKBOX
-        checkboxes.forEach(checkbox => {
-            console.log(checkbox);
-            
-            // SET THE CHECKING INDICATOR ON OR OFF
-            if(checkbox === this || checkbox === lastChecked){
-                inBetween = !inBetween;
-
-                console.log('Starting checking inbetween');
-                
-            }
-            // IF CHECKING - ACTIVATE CHANGE
-            if(inBetween){
-                checkbox.checked = false;
-            }
-        });
-    };
-    */
 
 
 
