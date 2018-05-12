@@ -1,0 +1,15 @@
+
+[
+    {
+        "title" : "Google IO", 
+        "date" : "02/05/2018", 
+        "img" : "",
+        "content": "<p>Line</p><p>Line</p>"
+    },
+    {
+        "title" : "JavaScript 30",
+        "date" : "03/04/2018", 
+        "img" : "http://oi68.tinypic.com/2dm7fjt.jpg",
+        "content": "<h2>ES6</h2>16/04/2018<p>Today (well tonight...) I started a new course focused on ES6, the most up-to-date version of ECMA Scripting language. Previously, I had to look up what exactly ECMA Script was, as I had always known it by its more common name, JavaScript.</p><p>The course is provided by Wes Bos, a developer and mentor who provided the free JavaScript30 course <a href='https://javascript30.com/'>avalable here</a>. I suspect the reasoning for this was to get more developers to try his teaching method and increase the numbers of Premium Courses purchased. I found it to be one of the best online tutorials I have ever come across and, when his premium courses went on sale, I bought his Node, React and ES6 courses.</p><p>I had alwas wanted to try Node and React, as a way to get back into the pathway of full stack developer, but had not thought much of ES6. Infact, apart from a few mentions online, I had never really heard of it before</p><p>Initially, I thought there was no need to study the first lessons on let and const as I had encountered these before in JavaScript 30. What I did not know were the subtle differences they bring to JavaScript and how to utilise these to write more stable code. </p>"
+    }    
+]
